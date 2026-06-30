@@ -1,7 +1,7 @@
 
 // English:
 // Script to reverse layer order and save Photoshop document as PSD with only the bottom layer visible.
-// Author: Ohnedan
+// Author: TheMaestr-o
 
 // Function to remove file extensions from layer names
 function removeExtensions(layerName) {
